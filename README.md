@@ -8,12 +8,11 @@
 
 <br><br>
 - :school: I am a `Junior` at [Facultad de Ingeniería Mecánica y Eléctrica (FIME)](https://portal.ucol.mx/fime/).
-- :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer in events held in the country..
 - :student: I’m currently learning `intelligent computing engineering.`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: I’m currently open for a new `job opportunity`, this is  [MY RESUME](http://lnkiy.in/).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
